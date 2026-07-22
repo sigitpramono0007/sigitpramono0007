@@ -29,7 +29,7 @@
 ## 📬 Connect With Me
 
 - 📧 **Email:** sigitpramono0007@gmail.com
-- 🌐 **Portfolio / Socials:** [Link Instagram / LinkedIn / Website]
+- 🌐 **Portfolio / Socials:** www.linkedin.com/in/sigitpramono0007
 
 ---
 
