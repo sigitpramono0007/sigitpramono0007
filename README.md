@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🪪 Hi, I'm Sigit Pramono! 👋
 
-<!--
-**sigitpramono0007/sigitpramono0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **11th Grade Student at SMK Muhammadiyah 1 Yogyakarta** 🎓  
+> *Exploring technology, creativity, and digital design.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🏫 **Education:** Currently studying at **SMK Muhammadiyah 1 Yogyakarta**
+- 🎨 **Interests:** Tech, digital design & image customization, and creative projects.
+- 💡 **Current Focus:** Master technical skills in high school while building creative personal projects.
+- 🌌 **Fun Fact:** Big fan of astrology 🪐 and personalizing digital aesthetics!
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Technical & Learning
+- **Languages / Tech:** HTML,CSS,C++,Pyhton
+- **School Focus:** Rekayasa Perangkat Lunak
+
+### 🎨 Creative & Design
+- **Digital Editing:** Aspect Ratio Tuning, Mobile Wallpapers, Background Aesthetics.
+- **Tools:** Canva, Photoshop
+
+---
+
+## 📬 Connect With Me
+
+- 📧 **Email:** sigitpramono0007@gmail.com
+- 🌐 **Portfolio / Socials:** [Link Instagram / LinkedIn / Website]
+
+---
+
+<p align="center">
+  <i>"Keep learning, keep creating, and make things aesthetic!"</i> ✨
+</p>
