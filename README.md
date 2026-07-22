@@ -1,5 +1,4 @@
 <div align="center">
-
 #👋 Hello, I'm Sigit Pramono
 ##Software Engineering (RPL) Student • Competitive Programming Enthusiast • Web Developer
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Developer;Competitive+Programming+Enthusiast;Toprank+2026+Logic+Code+Live+Participant;Always+Learning+New+Things+%F0%9F%9A%80"/>
