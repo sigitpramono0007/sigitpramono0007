@@ -1,5 +1,5 @@
 <div align="center">
-## 👋Hello, I'm Sigit Pramono
+# 👋 Hello, I'm Sigit Pramono
   
 ## Software Engineering (RPL) Student • Competitive Programming Enthusiast • Web Developer
 
